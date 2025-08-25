@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/sport-tv-1.png?raw=true" group-title="Sports",Sport TV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MmFjMWFhNjQ1YmQ3LWQzN2EtYjE4NC1lNjJkLWQ0NmEzNWE4/master.m3u8?md5=mJRYKZ9K8MR-cJUqrJI29Q&expires=1756122750&t=1756079550
+
+#EXTINF:-1 tvg-id="dazn1.pt" tvg-name="DAZN 1" tvg-logo="https://github.com/TomasTNunes/open-web-links/blob/main/dazn-1.png?raw=true" group-title="Sports",DAZN 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTQ0YTYyOTBiMjhiLWRhMDktOGE5NC0zYjZhLTVlYjU2OTM1/master.m3u8?md5=jxtD0TxljrfsHk_K8oEn4g&expires=1756123153&t=1756079953
