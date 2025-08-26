@@ -1,49 +1,49 @@
 #EXTM3U url-tvg="http://www.xmltvepg.nl/rytecPT.xz"
 
-#EXTINF:-1 tvg-id="rtp1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="Sports",RTP1
+#EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RPT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="Sports",RTP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/chunklist_b2540000_slpor.m3u8
 
-#EXTINF:-1 tvg-id="TVI.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" group-title="Sports",TVI
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/Log%C3%B3tipo_TVI.png" group-title="Sports",TVI
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://video-auth7.iol.pt/live_tvi/live_tvi/edge_servers/tvi-720_passthrough/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI1IDEyOjI3OjMgQU0maGFzaF92YWx1ZT10c2liMW5SQXprNnFCR0hhUHQrV1VRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YzU2ZDllOTUtZGU4OC00Y2FiLTk0NjEtNjI3YWVkMjcxN2Mz
 
-#EXTINF:-1 tvg-id="Canal11.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1024px-Logo_Canal_11_FPF.svg.png" group-title="Sports",Canal 11
+#EXTINF:-1 tvg-id="Canal11.pt" tvg-name="Canal 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Canal_11_FPF.svg/1024px-Logo_Canal_11_FPF.svg.png" group-title="Sports",Canal 11
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OGJmNGM3M2RmZTUzLWVlMDktMmM2NC1iMmE1LTFhMjYxZWY1/master.m3u8?md5=KqOYAYNjPGunhFp_Cw0UXg&expires=1756192813&t=1756149613
 
-#EXTINF:-1 tvg-id="sporttv1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/1920px-Sport_TV1_%282023%29.svg.png" group-title="Sports",Sport TV 1
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="Sport TV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sport_TV1_%282023%29.svg/1920px-Sport_TV1_%282023%29.svg.png" group-title="Sports",Sport TV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1NzhjZWFiYjY5NTllLWNhMzktMzNhNC0yNjg5LTlmMzVlZDM1/master.m3u8?md5=45S7lkAEe9TB3_ZpoeWr2A&expires=1756193116&t=1756149916
 
-#EXTINF:-1 tvg-id="sporttv2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1920px-Sport_TV2_%282023%29.svg.png" group-title="Sports",Sport TV 2
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="Sport TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sport_TV2_%282023%29.svg/1920px-Sport_TV2_%282023%29.svg.png" group-title="Sports",Sport TV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjczMGM1NmJiOWViLWNiYmEtMDVhNC1jZjFiLWYxMWM3Mjhi/master.m3u8?md5=lPOYAhEcbHopQ-QAMSc6uA&expires=1756192451&t=1756149251
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1920px-Sport_TV3_%282023%29.svg.png" group-title="Sports",Sport TV 3
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="Sport TV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1920px-Sport_TV3_%282023%29.svg.png" group-title="Sports",Sport TV 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1MWY5YTFlN2Y2ZmUwLWU3M2ItNDMxNC0wYTQ3LTEzM2RjNzBl/master.m3u8?md5=zBJKLJikSwlYIf6tsSYdYQ&expires=1756193571&t=1756150371
 
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/1920px-Sport_TV5_%282023%29.svg.png" group-title="Sports",Sport TV 5
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="Sport TV 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/1920px-Sport_TV5_%282023%29.svg.png" group-title="Sports",Sport TV 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTlhZDEzMTQ3MmFkLTAyZmEtZjNkNC1kNzA3LWUwYzU5YWRk/master.m3u8?md5=-37Nc7HUbLdcxtjmNr2UuQ&expires=1756193718&t=1756150518
 
-#EXTINF:-1 tvg-id="SportTV6.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/1920px-Sport_TV6_%282023%29.svg.png" group-title="Sports",Sport TV 6
+#EXTINF:-1 tvg-id="SportTV6.pt" tvg-name="Sport TV 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/1920px-Sport_TV6_%282023%29.svg.png" group-title="Sports",Sport TV 6
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZDkxYWFkZWEwZTFlLTRlYjgtNjA1NC03ZDEzLTI0ZGVjYjk5/master.m3u8?md5=x2WZwvs1-FrOe9aO8xCZaA&expires=1756192653&t=1756149453
 
-#EXTINF:-1 tvg-id="elevensports1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/1024px-DAZN_1.svg.png" group-title="Sports",DAZN 1
+#EXTINF:-1 tvg-id="elevensports1.pt" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/DAZN_1.svg/1024px-DAZN_1.svg.png" group-title="Sports",DAZN 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ZTQ0YTYyOTBiMjhiLWRhMDktOGE5NC0zYjZhLTVlYjU2OTM1/master.m3u8?md5=jxtD0TxljrfsHk_K8oEn4g&expires=1756123153&t=1756079953
 
-#EXTINF:-1 tvg-id="elevensports2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1024px-DAZN_2.svg.png" group-title="Sports",DAZN 2
+#EXTINF:-1 tvg-id="elevensports2.pt" tvg-name="DAZN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/DAZN_2.svg/1024px-DAZN_2.svg.png" group-title="Sports",DAZN 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1YjBlMTcxZmUwZTNiLWRlMjktNTRlNC0xNjlhLWE5MzY1ZGMz/master.m3u8?md5=gcq8jhwb-tEGB0zYk0tqeQ&expires=1756192753&t=1756149553
 
-#EXTINF:-1 tvg-id="elevensports3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/1024px-DAZN_3.svg.png" group-title="Sports",DAZN 3
+#EXTINF:-1 tvg-id="elevensports3.pt" tvg-name="DAZN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/DAZN_3.svg/1024px-DAZN_3.svg.png" group-title="Sports",DAZN 3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1OTZhYzFiZTgzYTE4LTdmNTgtMjQ3NC1iZTZiLTE3NDgyYzc0/master.m3u8?md5=tyj_rprFOQsTneGItAUOsg&expires=1756192946&t=1756149746
 
-#EXTINF:-1 tvg-id="elevensports4.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/DAZN_4_FHD.png" group-title="Sports",DAZN 4
+#EXTINF:-1 tvg-id="elevensports4.pt" tvg-name="DAZN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/DAZN_4_FHD.png" group-title="Sports",DAZN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://5nhp186eg31fofnc.chinese-restaurant-api.site/v3/director/VE1ODA5OTQ4ZTJlOGIwLTk0MWItODg1NC0zOWRjLTI0OTMyNmIy/master.m3u8?md5=SOfATB-YPypElB_d22ALZw&expires=1756219966&t=1756176766
