@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://www.xmltvepg.nl/rytecPT.xz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="rtp1.pt" tvg-name="RPT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/1920px-RTP1_-_Logo_2016.svg.png" group-title="Sports",RTP1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
